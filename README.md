@@ -4,4 +4,6 @@ In a Stroop task, participants are presented with a list of words, with each wor
 
 If you just download up the file Stroop_Test.html, I believe that would act as a better Readme file.
 
+Check out StroopTest_Version3.pdf to check out my analysis. Feel free to download and check it out for yourself.
+
 Enjoy and thanks for checking out my profile.
